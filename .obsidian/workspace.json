@@ -66,9 +66,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1896e9365c584775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Func Templates/Members.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7efbe884d99a9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Func Templates/New File Wizard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f70ca853078110b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/File Templates/Game Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-10-01.md",
+                "file": "Templates/File Templates/Game Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-10-01.md",
+                "file": "Templates/File Templates/Game Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-10-01.md"
+                "file": "Templates/File Templates/Game Log.md"
               }
             }
           }
@@ -196,12 +232,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "159dbdb42d26da82",
+  "active": "f70ca853078110b1",
   "lastOpenFiles": [
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
-    "Templates/File Templates/Game Log.md",
+    "Mötesanteckningar.md",
+    "Templates/Func Templates/New File Wizard.md",
     "Templates/Func Templates/GIT.md",
+    "Templates/Func Templates/Members.md",
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-10-01.md",
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md",
+    "Templates/File Templates/Game Log.md",
     "README.md"
   ]
 }
