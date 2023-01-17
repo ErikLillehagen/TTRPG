@@ -3,8 +3,8 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
-      "sh",
-      "zsh -c $cmd"
+      "gcp",
+      "zsh -c cd ${root} && git add --all && git commit -m \"${msg}\" && git push"
     ]
   ],
   "trigger_on_file_creation": false,

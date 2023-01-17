@@ -4,7 +4,8 @@
 	new Notice(`Comitted with message: ${msg}`);
 
 	const root = app.vault.adapter.getBasePath().replace(/(\s)/g, '\\$1');
-	const c = await tp.user.sh({cmd:`cd ${root} && git add --all && git commit -m "${msg}" && git push`});
+	console.log(root)
+	const c = await tp.user.gcp({root, msg});
 	console.log(c.out);
 	
 	 

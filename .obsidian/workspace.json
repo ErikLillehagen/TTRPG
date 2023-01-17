@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e87eb9b4941ad7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/File Templates/Game Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ea81658448ab62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Func Templates/GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,6 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1d64145798b5d8b",
-  "lastOpenFiles": []
+  "active": "8ea81658448ab62c",
+  "lastOpenFiles": [
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+    "Templates/File Templates/Game Log.md",
+    "Templates/Func Templates/GIT.md"
+  ]
 }
