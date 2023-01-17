@@ -5,6 +5,6 @@
 
 	const root = app.vault.adapter.getBasePath().replace(/(\s)/g, '\\$1');
 	const c = await tp.user.gcp({root, msg});
-	console.log(c)
+	new Notice(c)
 	 
 -%>
