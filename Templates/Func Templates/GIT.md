@@ -4,9 +4,7 @@
 	new Notice(`Comitted with message: ${msg}`);
 
 	const root = app.vault.adapter.getBasePath().replace(/(\s)/g, '\\$1');
-	console.log(root)
 	const c = await tp.user.gcp({root, msg});
-	console.log(c.out);
-	
+	console.log(c)
 	 
 -%>
