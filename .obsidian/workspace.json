@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Func Templates/GIT.md",
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ae41c8cfc59af76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Func Templates/GIT.md",
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Func Templates/GIT.md",
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Func Templates/GIT.md"
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md"
               }
             }
           }
@@ -172,10 +184,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ea81658448ab62c",
+  "active": "2ae41c8cfc59af76",
   "lastOpenFiles": [
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
     "Templates/File Templates/Game Log.md",
-    "Templates/Func Templates/GIT.md"
+    "Templates/Func Templates/GIT.md",
+    "README.md"
   ]
 }
