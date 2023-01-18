@@ -4,7 +4,7 @@
   "templates_pairs": [
     [
       "gcp",
-      "zsh -c cd ${root} && git add --all && git commit -m \"${msg}\" && git push"
+      "zsh -c cd ${root} && git pull && git add --all && git commit -m \"${msg}\" && git push"
     ],
     [
       "",

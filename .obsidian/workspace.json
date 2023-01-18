@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1d64145798b5d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Func Templates/GIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e87eb9b4941ad7d6",
+            "id": "8f105cf96bf51c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,95 +20,31 @@
             }
           },
           {
-            "id": "8ea81658448ab62c",
+            "id": "52d7e640eba8178e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+                "file": "Templates/Func Templates/AddPlayers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ae41c8cfc59af76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "159dbdb42d26da82",
+            "id": "c939bb8d15f88579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1896e9365c584775",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7efbe884d99a9f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f70ca853078110b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/File Templates/Game Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d839e11b3b132186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c06d0d7b145b931f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Func Templates/GIT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Func Templates/GIT.md",
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Func Templates/GIT.md",
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Func Templates/GIT.md"
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md"
               }
             }
           }
@@ -242,23 +166,22 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c06d0d7b145b931f",
+  "active": "c939bb8d15f88579",
   "lastOpenFiles": [
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-18.md",
     "Templates/File Templates/Game Log.md",
+    "Templates/Func Templates/AddPlayers.md",
+    "wip/just a not to check if i did gitignore like a idiot.md",
+    "wip/button that adds players.md",
+    "Templates/Func Templates/AddPlayerButton.md",
     "Templates/Func Templates/GIT.md",
+    "Untitled.md",
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-12-13.md",
-    "README.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-17.md",
-    "Templates/Func Templates/New Game Log.md",
-    "Templates/Snippets/Members.md",
-    "Mötesanteckningar.md"
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md"
   ]
 }
