@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc64b030fbb30f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wip/test again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Func Templates/GIT.md",
+                "file": "wip/test again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Func Templates/GIT.md",
+                "file": "wip/test again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Func Templates/GIT.md"
+                "file": "wip/test again.md"
               }
             }
           }
@@ -171,8 +183,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c939bb8d15f88579",
+  "active": "dc64b030fbb30f91",
   "lastOpenFiles": [
+    "Templates/Func Templates/GIT.md",
     "wip/just a not to check if i did gitignore like a idiot.md",
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-18.md",
@@ -180,7 +193,6 @@
     "Templates/Func Templates/AddPlayers.md",
     "wip/button that adds players.md",
     "Templates/Func Templates/AddPlayerButton.md",
-    "Templates/Func Templates/GIT.md",
     "Untitled.md",
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md"
   ]
