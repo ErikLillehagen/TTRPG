@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4bbc576c7b4bd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/File Templates/Game Log.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/File Templates/Game Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/File Templates/Game Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/File Templates/Game Log.md"
               }
             }
           }
@@ -195,17 +207,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0195df9ef01c1cd",
+  "active": "f4bbc576c7b4bd8e",
   "lastOpenFiles": [
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-18.md",
+    "Templates/Func Templates/GIT.md",
+    "Templates/Func Templates/AddPlayers.md",
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+    "README.md",
     "Untitled.md",
     "wip/test again'.md",
-    "Templates/Func Templates/AddPlayers.md",
     "Templates/Func Templates/AddPlayerButton.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-18.md",
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
-    "Templates/Func Templates/GIT.md",
-    "wip/just a not to check if i did gitignore like a idiot.md",
-    "Templates/File Templates/Game Log.md",
-    "wip/button that adds players.md"
+    "wip/just a not to check if i did gitignore like a idiot.md"
   ]
 }
