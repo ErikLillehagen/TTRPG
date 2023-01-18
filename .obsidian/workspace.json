@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
+                "file": "Templates/Func Templates/GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
+                "file": "Templates/Func Templates/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
+                "file": "Templates/Func Templates/GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md"
+                "file": "Templates/Func Templates/GIT.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "c939bb8d15f88579",
   "lastOpenFiles": [
+    "wip/just a not to check if i did gitignore like a idiot.md",
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-18.md",
     "Templates/File Templates/Game Log.md",
     "Templates/Func Templates/AddPlayers.md",
-    "wip/just a not to check if i did gitignore like a idiot.md",
     "wip/button that adds players.md",
     "Templates/Func Templates/AddPlayerButton.md",
     "Templates/Func Templates/GIT.md",
     "Untitled.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md"
+    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md"
   ]
 }
