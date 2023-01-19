@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/File Templates/Game Log.md",
+                "file": "Templates/Func Templates/AddPlayerButton.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/File Templates/Game Log.md",
+                "file": "Templates/Func Templates/AddPlayerButton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/File Templates/Game Log.md",
+                "file": "Templates/Func Templates/AddPlayerButton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/File Templates/Game Log.md"
+                "file": "Templates/Func Templates/AddPlayerButton.md"
               }
             }
           }
@@ -207,17 +207,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4bbc576c7b4bd8e",
+  "active": "2bb362a375864ae3",
   "lastOpenFiles": [
+    "Templates/Func Templates/AddPlayers.md",
+    "Templates/Func Templates/AddPlayerButton.md",
+    "Templates/File Templates/Game Log.md",
     "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-18.md",
     "Templates/Func Templates/GIT.md",
-    "Templates/Func Templates/AddPlayers.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
+    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
     "README.md",
     "Untitled.md",
     "wip/test again'.md",
-    "Templates/Func Templates/AddPlayerButton.md",
-    "Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md",
-    "wip/just a not to check if i did gitignore like a idiot.md"
+    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-10.md"
   ]
 }

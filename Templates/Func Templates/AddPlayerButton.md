@@ -1,7 +1,3 @@
-
-a, b, cb
-
-
 ```button
 name Lägg till deltagare
 type line(2) template

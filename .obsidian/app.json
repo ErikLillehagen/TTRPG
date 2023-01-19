@@ -1,4 +1,5 @@
 {
   "tabSize": 2,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "Attachments"
 }
