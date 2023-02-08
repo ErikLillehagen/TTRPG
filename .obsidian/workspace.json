@@ -148,9 +148,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "850de96beb1f202c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Dungeons & Dragons/Game Log 23-02-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-02.md",
+                "file": "1. Dungeons & Dragons/Game Log 23-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-02.md",
+                "file": "1. Dungeons & Dragons/Game Log 23-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-02.md"
+                "file": "1. Dungeons & Dragons/Game Log 23-02-07.md"
               }
             }
           }
@@ -278,8 +290,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac6017d0efdd0d49",
+  "active": "850de96beb1f202c",
   "lastOpenFiles": [
+    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-02.md",
     "Untitled.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-24.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-19.md",
@@ -288,7 +301,6 @@
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md",
     "wip/Chult_revealed.excalidraw.md",
     "wip/Untitled.md",
-    "README.md",
-    "Templates/Func Templates/GIT.md"
+    "README.md"
   ]
 }
