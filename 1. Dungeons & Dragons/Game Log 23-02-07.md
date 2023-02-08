@@ -12,6 +12,8 @@ Dagen efter bestämmer de sig för att träffa färgaren, och på vägen dit hä
 yxa med kedja (kasta & dra tillbaka + snurr-attack) - Volkur
 studded leather armor - Tuppis
 
+RIP Gobbo
+
 Uppdrag - Det finns flera piratskepp som är aktiva utanför Nyanzaru, belöningen för ett tilfångataget skepp är 2000gp, och belöningen för en piratkapten är 500gp.
 
 Uppdrag - Döda Shago
