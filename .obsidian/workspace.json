@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Func Templates/AddPlayers.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-03-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Func Templates/AddPlayers.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-03-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Func Templates/AddPlayers.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-03-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Func Templates/AddPlayers.md"
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-03-02.md"
               }
             }
           }
@@ -198,6 +198,7 @@
   },
   "active": "2c43d3b0b48161cb",
   "lastOpenFiles": [
+    "Templates/Func Templates/AddPlayers.md",
     "Templates/Func Templates/AddPlayerButton.md",
     "Templates/Func Templates/GIT.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-03-02.md",
@@ -206,7 +207,6 @@
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-07.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-16.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-21.md",
-    "wip/Chult_revealed.excalidraw.md",
-    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 22-11-15.md"
+    "wip/Chult_revealed.excalidraw.md"
   ]
 }
