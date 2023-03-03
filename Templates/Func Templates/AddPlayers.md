@@ -1,5 +1,5 @@
 <%*
-	const members = ['Avloppsmannen', 'Bhaxan', 'Gagurr', 'Moss', 'Neeve', 'Oogwai', 'Tuppis', 'Tylvi', 'Volkur'];
+	const members = ['Artus', 'Avloppsmannen', 'Bhaxan', 'Gagurr', 'Moss', 'Neeve', 'Oogwai', 'Tuppis', 'Tylvi', 'Volkur'];
 	
 	const removeFromCurrent = (selected) => {
 		const index = currentMembers.indexOf(selected);
