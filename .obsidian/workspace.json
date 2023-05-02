@@ -4,83 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "596fd56f093973c9",
+        "id": "ecd96f79b987c469",
         "type": "tabs",
         "children": [
           {
-            "id": "d44e4cea41c4052e",
+            "id": "7cc6a3baeb15013f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-07.md",
-                "mode": "source",
-                "source": false
+                "file": "wip/Chult_revealed.excalidraw.md"
               }
             }
           },
           {
-            "id": "eb6f6b5eeb7edeef",
+            "id": "ce17cbc1aa3057ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad15e737b237deb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b8e41ba7f455f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c43d3b0b48161cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-03-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b965b3daa261b809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-13.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-13.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-13.md",
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-13.md"
+                "file": "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-27.md"
               }
             }
           }
@@ -208,18 +158,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b965b3daa261b809",
+  "active": "ce17cbc1aa3057ba",
   "lastOpenFiles": [
+    "wip/Chult_revealed.excalidraw.md",
+    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-27.md",
+    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-13.md",
+    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-07.md",
     "Templates/Func Templates/AddPlayers.md",
     "Templates/Func Templates/AddPlayerButton.md",
-    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-04-13.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-03-02.md",
     "README.md",
-    "wip/Chult_revealed.excalidraw.md",
     "Templates/Func Templates/GIT.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-01-24.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-02.md",
-    "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-07.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-16.md",
     "1. Dungeons & Dragons/Queenslab Campaign 1/Game Log 23-02-21.md"
   ]
